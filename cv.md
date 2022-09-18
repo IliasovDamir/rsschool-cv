@@ -15,6 +15,28 @@ Now working as an engineer gives me extra free time, which I spend studying Fron
 
 I am a good, purposeful team worker and really want to learn and develop new skills. I believe that my ability to learn and acquire new skills will help me go this way and become an experienced Front end developer
 ***
+**Skills and Proficiency:**
+* JavaScript Basics
+* Git, GitHub
+***
+**Code example:**
+```
+function multiply(a, b){
+return a * b;
+}
+```
+***
+**Work experience**
 
+Refinement, site content, editing the site on wordpress [ee16.ru](ee16.ru)\
+
+***
+**Education and Courses:**
+
+Bachelor-engineer of thermal power engineering ([KFU](https://kpfu.ru/)) \
+JS/FE on [rs.school](https://rs.school/) (in progress)
+***
+English - Intermediate (B1) (according to the online test at [EFset](https://www.efset.org/))
+* Russian - native
 
 
